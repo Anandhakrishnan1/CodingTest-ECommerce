@@ -1,0 +1,17 @@
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\bin\Debug\net6.0\EcommerceApplication.DataAccess.Repository.deps.json
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\bin\Debug\net6.0\EcommerceApplication.DataAccess.Repository.dll
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\bin\Debug\net6.0\EcommerceApplication.DataAccess.Repository.pdb
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\bin\Debug\net6.0\EcommerceApplication.Domain.dll
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\bin\Debug\net6.0\EcommerceApplication.Infrastructure.dll
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\bin\Debug\net6.0\EcommerceApplication.Domain.pdb
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\bin\Debug\net6.0\EcommerceApplication.Infrastructure.pdb
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\obj\Debug\net6.0\EcommerceApplication.DataAccess.Repository.csproj.AssemblyReference.cache
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\obj\Debug\net6.0\EcommerceApplication.DataAccess.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\obj\Debug\net6.0\EcommerceApplication.DataAccess.Repository.AssemblyInfoInputs.cache
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\obj\Debug\net6.0\EcommerceApplication.DataAccess.Repository.AssemblyInfo.cs
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\obj\Debug\net6.0\EcommerceApplication.DataAccess.Repository.csproj.CoreCompileInputs.cache
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\obj\Debug\net6.0\Ecommerc.03DF53C0.Up2Date
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\obj\Debug\net6.0\EcommerceApplication.DataAccess.Repository.dll
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\obj\Debug\net6.0\refint\EcommerceApplication.DataAccess.Repository.dll
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\obj\Debug\net6.0\EcommerceApplication.DataAccess.Repository.pdb
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.DataAccess.Repository\obj\Debug\net6.0\ref\EcommerceApplication.DataAccess.Repository.dll

@@ -1,0 +1,11 @@
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Domain\bin\Debug\net6.0\EcommerceApplication.Domain.deps.json
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Domain\bin\Debug\net6.0\EcommerceApplication.Domain.dll
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Domain\bin\Debug\net6.0\EcommerceApplication.Domain.pdb
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Domain\obj\Debug\net6.0\EcommerceApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Domain\obj\Debug\net6.0\EcommerceApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Domain\obj\Debug\net6.0\EcommerceApplication.Domain.AssemblyInfo.cs
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Domain\obj\Debug\net6.0\EcommerceApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Domain\obj\Debug\net6.0\EcommerceApplication.Domain.dll
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Domain\obj\Debug\net6.0\refint\EcommerceApplication.Domain.dll
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Domain\obj\Debug\net6.0\EcommerceApplication.Domain.pdb
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Domain\obj\Debug\net6.0\ref\EcommerceApplication.Domain.dll

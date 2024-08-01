@@ -1,0 +1,11 @@
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Infrastructure\bin\Debug\net6.0\EcommerceApplication.Infrastructure.deps.json
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Infrastructure\bin\Debug\net6.0\EcommerceApplication.Infrastructure.dll
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Infrastructure\bin\Debug\net6.0\EcommerceApplication.Infrastructure.pdb
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Infrastructure\obj\Debug\net6.0\EcommerceApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Infrastructure\obj\Debug\net6.0\EcommerceApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Infrastructure\obj\Debug\net6.0\EcommerceApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Infrastructure\obj\Debug\net6.0\EcommerceApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Infrastructure\obj\Debug\net6.0\EcommerceApplication.Infrastructure.dll
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Infrastructure\obj\Debug\net6.0\refint\EcommerceApplication.Infrastructure.dll
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Infrastructure\obj\Debug\net6.0\EcommerceApplication.Infrastructure.pdb
+C:\Users\anandhakrishnan.al\OneDrive - PITSOLUTIONS\Desktop\Application\EcommerceApplication.Infrastructure\obj\Debug\net6.0\ref\EcommerceApplication.Infrastructure.dll
